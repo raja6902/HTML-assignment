@@ -1,0 +1,131 @@
+
+  body {
+   right:850px;
+width: 80%;
+ background: #E5E7E9;
+}
+
+
+.sidenav{
+height: 100%;
+width: 200px;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 20;
+margin-top:25px;
+background-color: #F0B27A ;
+overflow-x: hidden;
+padding-top: 80px;
+
+}
+.sidenav a{
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 19px;
+  color: black;
+  display: block;
+
+
+}
+a:hover{
+      background-color: yellow;
+      text-decoration:none;
+}
+
+ .sidenav extra{
+position:relative;
+right:-25px;
+
+}
+ .header {
+
+   position:relative;
+  right: -350px;
+ color: #F0B27A ;
+right:-350px;
+}
+.java{
+
+ position:relative;
+  right: -250px;
+ color: black;
+}
+.eager{
+ position:relative;
+  right: -250px;
+ color: black;
+font-size:20px;
+}
+
+
+
+p.dreams{
+border: 1px solid;
+border-right: -5px;
+border-color:#F0B27A ;
+word-spacing: 10px;
+ position:relative;
+  right: -250px;
+font-size: 18px;
+
+ color: black;
+}
+
+.wishes{
+ position:relative;
+  right: -350px;
+ color: black;
+font-size:18px;
+
+}
+ #language {
+ margin-left: 250px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+
+
+}
+
+#language td, #language th {
+  border: 1px solid black;
+  padding: 8px;
+font-size:15px;
+
+}
+
+#language tr:nth-child(even){background-color: #f2f2f2;}
+
+#language tr:hover {background-color: #ddd;}
+
+#language th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: black;
+  color: white;
+font-size:15px;
+}
+
+
+ div.contact{
+border: 1px solid;
+border-right: -5px;
+border-color:#F0B27A ;
+word-spacing: 10px;
+ position:relative;
+  right: -250px;
+font-size: 30px;
+
+ color: black;
+
+
+}
+
+
+
+
+
+
+
